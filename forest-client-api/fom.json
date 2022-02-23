@@ -1,0 +1,42 @@
+{
+    
+    "dataProvider": {
+        "businessContext": "https://github.com/bcgov/nr-forest-client-api/wiki/Business-Context",
+        "datasetDescription": "https://github.com/bcgov/nr-forest-client-api/wiki/Dataset-Description",
+        "architecture": "https://github.com/bcgov/nr-forest-client-api/wiki/Architecture",
+        "apiVersion": "1.0",
+        "scopes": "corporate"
+    },
+    "dataConsumer": {
+        "businessRequirements": "https://github.com/bcgov/nr-forest-client-api/wiki/Client-Requirements#fom",
+        "pia": "TBD",
+        "stra": "TBD",
+        "consumerArchitecture": "https://apps.nrs.gov.bc.ca/int/confluence/display/FOM/Design+for+Data+Integrations+with+External+Systems"
+    },
+    "signatures": {
+        "dataCustodian": {
+            "signatureRequired": true,
+            "name": "",
+            "role": "",
+            "githubID": ""
+        },
+        "productOwner": {
+            "signatureRequired": true,
+            "name": "",
+            "role": "",
+            "githubID": ""
+        },
+        "privacy": {
+            "signatureRequired": true,
+            "name": "",
+            "role": "",
+            "githubID": ""
+        },
+        "security": {
+            "signatureRequired": true,
+            "name": "",
+            "role": "",
+            "githubID": ""
+        }
+    }
+}
