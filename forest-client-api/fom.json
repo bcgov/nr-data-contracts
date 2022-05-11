@@ -11,7 +11,7 @@
         "businessRequirements": "https://github.com/bcgov/nr-forest-client-api/wiki/Client-Requirements#fom",
         "pia": "TBD",
         "stra": "TBD",
-        "consumerArchitecture": "https://apps.nrs.gov.bc.ca/int/confluence/display/FOM/Design+for+Data+Integrations+with+External+Systems"
+        "consumerArchitecture": "https://apps.nrs.gov.bc.ca/int/confluence/x/HSb7Bs"
     },
     "signatures": {
         "dataCustodian": {
